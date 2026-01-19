@@ -197,5 +197,6 @@ Razorpay integration was not used due to personal account (lack of Pan card) con
 ## 👨‍💻 Author
 
 **Aditeey Singh Jadon**  
-B.Sc. Computer Science
+Batch B 
+24BCS10056
 
