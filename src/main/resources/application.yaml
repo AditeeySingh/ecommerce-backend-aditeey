@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ecommerceAditeey
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ecommerce_aditeey_db
+
+logging:
+  level:
+    org.springframework.web: INFO
